@@ -1,0 +1,5 @@
+The Following trends can be seen from the scatter plots for the weather for different cities.
+
+1.	The temperature is maximum for cities for cities located closer to the equator ie at 0 degree latitude. The temperature decreases as they move away from the equator. The temperature for cities located in the northern hemisphere are colder as compared to cities in the southern hemisphere, this time of the year. 
+2.	The density of the Humidity percentage is higher for cities situated below the equator (south hemisphere) as compared to the cities above the equator. 
+3.	The wind speed vs latitude for most cities is densely located in the 0 to 8 mph range. 
